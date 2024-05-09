@@ -1,0 +1,22 @@
+{
+  "name": "Just Love Play And Learn Centre",
+  "short_name": "Just Love",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#77d4e3",
+  "scope": ".",
+  "description": "This is a PWA for Just Love Play And Learn Centre.",
+  "icons": [
+    {
+      "src": "Images/daycare.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Images/daycare.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

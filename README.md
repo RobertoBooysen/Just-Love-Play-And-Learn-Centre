@@ -1,4 +1,6 @@
-# Just Love Play And Learn Centre
+<h1 align="center">👋 Welcome to Just Love Play And Learn Centre!</h1>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/dd74be5f-6228-450f-9aba-947dcb4c6b00" alt="Image"></p>
 
 The Just Love Play And Learn Centre's progressive web app provides a user-friendly public website for visitors to effortlessly navigate. Additionally, a dedicated parent portal allows registered parents to access and view essential information uploaded from the daycare, fostering seamless communication. Furthermore, an admin portal is integrated, offering administrators a secure platform to upload resources, manage events, share images, and effectively communicate with parents.
 
@@ -7,11 +9,11 @@ The Just Love Play And Learn Centre's progressive web app provides a user-friend
 * [Keely-Ann Maritz](https://github.com/Keely-Ann/)
 * [Roberto Booysen](https://github.com/RobertoBooysen/)
 
-## User Manual
+## 📚 User Manual
 For detailed instructions and guidance, please refer to the [User Manual](Just%20Love%20User%20Manual.pdf).
 
-## Installation for Android
+## 📲 Installation for Android
 https://github.com/user-attachments/assets/f5c38962-95d5-4d70-a45b-a62c5b732aca
 
-## Installation for IOS
+## 📲 Installation for IOS
 https://github.com/user-attachments/assets/dbd8b0b9-6dee-4f2e-bc6b-3048afee8ce5

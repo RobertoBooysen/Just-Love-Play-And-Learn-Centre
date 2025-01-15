@@ -7,11 +7,11 @@ The Just Love Play And Learn Centre's progressive web app provides a user-friend
 * [Keely-Ann Maritz](https://github.com/Keely-Ann/)
 * [Roberto Booysen](https://github.com/RobertoBooysen/)
 
-## Website link
-* [Just Love Play And Learn Centre](https://justloveplayandlearncentre.co.za/)
+## User Manual
+For detailed instructions and guidance, please refer to the [User Manual](Just%20Love%20User%20Manual.pdf).
 
-## Azure links
-* [Azure Boards](https://dev.azure.com/ST10085428/JLPALC/_boards/board/t/JLPALC%20Team/Stories/)
-* [Azure PipeLines](https://dev.azure.com/ST10085428/JLPALC/_build?view=runs)
-* [Azure Repos](https://dev.azure.com/ST10085428/_git/JLPALC)
+## Installation Instructions
 
+| Android Installation | iOS Installation |
+|----------------------|------------------|
+| ![Android](https://github.com/user-attachments/assets/f5c38962-95d5-4d70-a45b-a62c5b732aca) | ![iOS](https://github.com/user-attachments/assets/dbd8b0b9-6dee-4f2e-bc6b-3048afee8ce5) |

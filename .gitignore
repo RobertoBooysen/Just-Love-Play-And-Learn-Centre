@@ -1,1 +1,6 @@
-dbconn.php
+DBConn.php
+TourTable.php
+RequestRegTable.php
+RequestApplicationTable.php
+EditTour.php
+AdminRespond.php

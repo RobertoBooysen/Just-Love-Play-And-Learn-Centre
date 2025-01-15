@@ -10,8 +10,8 @@ The Just Love Play And Learn Centre's progressive web app provides a user-friend
 ## User Manual
 For detailed instructions and guidance, please refer to the [User Manual](Just%20Love%20User%20Manual.pdf).
 
-## Installation Instructions
+## Installation for Android
+https://github.com/user-attachments/assets/f5c38962-95d5-4d70-a45b-a62c5b732aca
 
-| Android Installation | iOS Installation |
-|----------------------|------------------|
-| ![Android](https://github.com/user-attachments/assets/f5c38962-95d5-4d70-a45b-a62c5b732aca) | ![iOS](https://github.com/user-attachments/assets/dbd8b0b9-6dee-4f2e-bc6b-3048afee8ce5) |
+## Installation for IOS
+https://github.com/user-attachments/assets/dbd8b0b9-6dee-4f2e-bc6b-3048afee8ce5
